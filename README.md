@@ -8,9 +8,9 @@
 ### Sobre mim
 Sou um profissional focado em criar soluções que otimizam processos e geram valor através da tecnologia. Meu foco atual está na união entre a automação robótica de processos (RPA) e as novas fronteiras da Inteligência Artificial.
 
-- ⚙️ Desenvolvedor de fluxos de **Automação (RPA)**.
-- 🤖 Foco atual em implementação de **LLMs Locais** para ambientes corporativos seguros.
-- 📊 Aplicação de análise de dados para tomadas de decisão estratégicas.
+- Desenvolvedor de fluxos de **Automação (RPA)**.
+- Foco atual em implementação de **LLMs Locais** para ambientes corporativos seguros.
+- Aplicação de análise de dados para tomadas de decisão estratégicas.
 
 ---
 
@@ -19,7 +19,7 @@ Sou um profissional focado em criar soluções que otimizam processos e geram va
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+###  Tecnologias e Ferramentas
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -56,7 +56,7 @@ Sou um profissional focado em criar soluções que otimizam processos e geram va
 
 ---
 
-### 📂 Portfólio
+###  Portfólio
 * 🎓 **[Meus Certificados](https://github.com/sandromntr-dot/Certificados)** - Acesse meu repositório completo de formações.
 
 ---
