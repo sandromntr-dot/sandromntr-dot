@@ -38,8 +38,6 @@ Sou um profissional focado em criar soluções que otimizam processos e geram va
 
 ### 🏆 Certificações em Destaque
 
-<p align="center"><i> Clique nas medalhas para verificar a autenticidade na Credly</i></p>
-
 <div align="center">
   <!-- Badge 1: Google IT Automation -->
   <a href="https://www.credly.com/badges/d3773d88-65f1-4fe3-ae6f-10624b98e2af/public_url" target="_blank">
@@ -54,6 +52,8 @@ Sou um profissional focado em criar soluções que otimizam processos e geram va
 
 <br>
 
+<p align="center"><i> Clique nos badges para validar a autenticidade </i></p>
+
 ---
 
 ### Portfólio
@@ -61,5 +61,5 @@ Sou um profissional focado em criar soluções que otimizam processos e geram va
 
 ---
 
-### 📫 Como me encontrar
+### 📫 Como me encontrar?
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN-AQUI)
