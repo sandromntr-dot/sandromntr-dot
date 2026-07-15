@@ -1,6 +1,6 @@
 # Olá!
 
-**Dev RPA | Analista de Automação e IA**  
+**Desenvolvedor RPA | Analista de Automação e IA**  
 *Integração de Inteligência Artificial e LLMs Locais Open Source*
 
 ---
@@ -41,14 +41,14 @@ Sou um profissional focado em criar soluções que otimizam processos e geram va
 <p align="center"><i> Clique nas medalhas para verificar a autenticidade na Credly</i></p>
 
 <div align="center">
-  <!-- Badge 1: Google Data Analytics -->
-  <a href="https://www.credly.com/badges/ade5a886-3b7c-4c92-9d6a-0f3775a3fe10/public_url" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/d4185c81-d7ad-4220-bf32-46168be588bc/blob" width="130" alt="Google Data Analytics Badge">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- Badge 2: Google IT Automation -->
+  <!-- Badge 1: Google IT Automation -->
   <a href="https://www.credly.com/badges/d3773d88-65f1-4fe3-ae6f-10624b98e2af/public_url" target="_blank">
     <img src="https://images.credly.com/size/680x680/images/1a546b64-d2d1-480a-9144-410112eb8fa0/blob" width="130" alt="Google IT Automation Badge">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Badge 2: Google Data Analytics -->
+  <a href="https://www.credly.com/badges/ade5a886-3b7c-4c92-9d6a-0f3775a3fe10/public_url" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/d4185c81-d7ad-4220-bf32-46168be588bc/blob" width="130" alt="Google Data Analytics Badge">
   </a>
 </div>
 
