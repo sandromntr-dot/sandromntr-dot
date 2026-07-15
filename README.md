@@ -14,12 +14,12 @@ Sou um profissional focado em criar soluções que otimizam processos e geram va
 
 ---
 
-### 🎓 Formação Acadêmica
+### Formação Acadêmica
 - **Gestão da Tecnologia da Informação (GTI)** | *Instituto Federal do Paraná (IFPR)* - Em andamento
 
 ---
 
-###  Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -56,8 +56,8 @@ Sou um profissional focado em criar soluções que otimizam processos e geram va
 
 ---
 
-###  Portfólio
-* 🎓 **[Meus Certificados](https://github.com/sandromntr-dot/Certificados)** - Acesse meu repositório completo de formações.
+### Portfólio
+* 🎓 **[Meus Certificados](https://github.com/sandromntr-dot/Certificados)** - Acesse meu repositório completo de certificados.
 
 ---
 
