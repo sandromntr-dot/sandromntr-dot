@@ -75,4 +75,4 @@ Sou um profissional focado em criar soluções que otimizam processos e geram va
 ---
 
 ### 📫 Como me encontrar?
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/sandro-monteiro-729274191)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandro-monteiro-729274191)
