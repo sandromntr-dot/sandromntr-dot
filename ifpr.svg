@@ -12,9 +12,9 @@
     <path fill="#2F9E41" d="M24.4 49.4c0 0.6-0.5 1.1-1.1 1.1h-8.7c-0.6 0-1.1-0.5-1.1-1.1v-8.7c0-0.6 0.5-1 1.1-1h8.7c0.6 0 1.1 0.5 1.1 1.1V49.4z"></path>
     <!-- Círculo Vermelho -->
     <path fill="#CD191E" d="M11.9 6c0 3.3-2.7 6-6 6C2.7 11.9 0 9.3 0 6S2.7 0 6 0C9.3 0 11.9 2.7 11.9 6"></path>
-    <!-- Textos -->
+    <!-- Textos alterados para #FFFFFF -->
     <text transform="matrix(1.0017 0 0 1 44.1899 38.9971)">
-        <tspan fill="currentColor" font-family="Arial, sans-serif" font-weight="bold" font-size="18">INSTITUTO FEDERAL</tspan>
+        <tspan fill="#FFFFFF" font-family="Arial, sans-serif" font-weight="bold" font-size="18">INSTITUTO FEDERAL</tspan>
     </text>
-    <text transform="matrix(1.0017 0 0 1 44.4702 52.1841)" fill="currentColor" font-family="Arial, sans-serif" font-size="18">Paraná</text>
+    <text transform="matrix(1.0017 0 0 1 44.4702 52.1841)" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="18">Paraná</text>
 </svg>
