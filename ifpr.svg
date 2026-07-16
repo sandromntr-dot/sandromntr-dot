@@ -1,8 +1,17 @@
 <svg id="marca-ifpr" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 54" role="img" aria-label="Instituto Federal do Paraná">
     <title>Instituto Federal do Paraná</title>
-    
-    <!-- Fundo Branco embutido com contorno sutil (evita "corte seco" contra fundos escuros) -->
-    <rect x="0.5" y="0.5" width="259" height="53" fill="white" stroke="#d0d7de" stroke-width="1" rx="6" />
+
+    <style>
+        .ifpr-bg { fill: #ffffff; }
+        .ifpr-text { fill: #333333; }
+        @media (prefers-color-scheme: dark) {
+            .ifpr-bg { fill: #0d1117; }
+            .ifpr-text { fill: #e6edf3; }
+        }
+    </style>
+
+    <!-- Fundo que se adapta ao tema claro/escuro do GitHub, evitando a caixa branca fixa -->
+    <rect class="ifpr-bg" x="0" y="0" width="260" height="54" rx="6" />
     
     <!-- Quadrados Verdes -->
     <path fill="#2F9E41" d="M37.4 36.4c0 0.6-0.5 1.1-1 1.1h-8.7c-0.6 0-1.1-0.5-1.1-1.1v-8.7c0-0.6 0.5-1.1 1.1-1.1h8.7c0.6 0 1.1 0.5 1.1 1.1V36.4z"></path>
@@ -18,9 +27,9 @@
     <!-- Círculo Vermelho -->
     <path fill="#CD191E" d="M11.9 6c0 3.3-2.7 6-6 6C2.7 11.9 0 9.3 0 6S2.7 0 6 0C9.3 0 11.9 2.7 11.9 6"></path>
     
-    <!-- Textos com cor escura (para contraste no branco) -->
+    <!-- Textos com cor que se adapta ao tema -->
     <text transform="matrix(1.0017 0 0 1 44.1899 38.9971)">
-        <tspan fill="#333333" font-family="Arial, sans-serif" font-weight="bold" font-size="18">INSTITUTO FEDERAL</tspan>
+        <tspan class="ifpr-text" font-family="Arial, sans-serif" font-weight="bold" font-size="18">INSTITUTO FEDERAL</tspan>
     </text>
-    <text transform="matrix(1.0017 0 0 1 44.4702 52.1841)" fill="#333333" font-family="Arial, sans-serif" font-size="18">Paraná</text>
+    <text class="ifpr-text" transform="matrix(1.0017 0 0 1 44.4702 52.1841)" font-family="Arial, sans-serif" font-size="18">Paraná</text>
 </svg>
