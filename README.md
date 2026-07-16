@@ -58,7 +58,7 @@ Meu foco atual está na união entre a automação (RPA) e as novas fronteiras d
 ---
 
 ### Portfólio
-* 🎓 **[Meus Certificados](https://github.com/sandromntr-dot/Certificados)** - Acesse meu repositório completo de certificados.
+* **[Meus Certificados](https://github.com/sandromntr-dot/Certificados)** - Acesse meu repositório completo de certificados.
 
 ---
 
