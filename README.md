@@ -12,7 +12,7 @@
 
 ### Sobre mim
 
-Sou um profissional focado em criar soluções que otimizam processos e geram valor através da tecnologia. Meu foco atual está na união entre a **Automação (RPA)** e as novas fronteiras da **Inteligência Artificial**.
+Sou um profissional focado em criar soluções que otimizam processos e geram valor através da tecnologia. <br> Meu foco atual está na união entre a **Automação (RPA)** e as novas fronteiras da **Inteligência Artificial**.
 
 **O que você encontrará nos meus repositórios:**
 - 🤖 **Automação (RPA):** Ferramentas construídas com Python e desenvolvimento de fluxos para ganho de eficiência operacional.
