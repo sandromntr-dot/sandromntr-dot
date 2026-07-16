@@ -6,10 +6,11 @@
 ---
 
 ### Sobre mim
-Sou um profissional focado em criar soluções que otimizam processos e geram valor através da tecnologia. Meu foco atual está na união entre a automação robótica de processos (RPA) e as novas fronteiras da Inteligência Artificial.
+Sou um profissional focado em criar soluções que otimizam processos e geram valor através da tecnologia. 
+Meu foco atual está na união entre a automação (RPA) e as novas fronteiras da Inteligência Artificial.
 
 - Desenvolvedor de fluxos de **Automação (RPA)**.
-- Foco atual em implementação de **LLMs Locais** para ambientes corporativos seguros.
+- Foco em implementação de **LLMs Open Source** para ambientes corporativos seguros.
 - Aplicação de análise de dados para tomadas de decisão estratégicas.
 
 ---
