@@ -7,13 +7,16 @@
 ---
 
 ### Sobre mim
-Sou um profissional focado em criar soluções que otimizam processos e geram valor através da tecnologia. 
-Meu foco atual está na união entre a automação (RPA) e as novas fronteiras da Inteligência Artificial.
 
-- Desenvolvedor de fluxos de **Automação (RPA)**.
-- Foco em implementação de **LLMs Open Source** para ambientes corporativos seguros.
-- Aplicação de análise de dados para tomadas de decisão estratégicas.
+Sou um profissional focado em criar soluções que otimizam processos e geram valor através da tecnologia. Meu foco atual está na união entre a **Automação (RPA)** e as novas fronteiras da **Inteligência Artificial**.
 
+**O que você encontrará nos meus repositórios:**
+- 🤖 **Automação (RPA):** Ferramentas construídas com Python e desenvolvimento de fluxos para ganho de eficiência operacional.
+- 🧠 **IA Local & LLMs Open Source:** Testes de LLMs Open Source foco para ambientes corporativos seguros e experimentos avançados com **RAG**.
+- 🏗️ **Arquitetura & Processos:** Soluções de arquitetura para processos corporativos, incluindo exemplos de mapeamento **BPMN (AS-IS e TO-BE)**.
+- 📊 **Análise de Dados:** Aplicação de dados para suportar a tomada de decisão estratégica.
+
+🚧 *Em construção — novos projetos sendo adicionados continuamente.*
 ---
 
 ### Formação Acadêmica
