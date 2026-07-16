@@ -22,7 +22,7 @@ Sou um profissional focado em criar soluções que otimizam processos e geram va
 ### Formação Acadêmica
 
 <p>
-  <img src="./ifpr.svg" width="150" hspace="20" align="left" alt="IFPR Logo">
+<img src="./ifpr.svg" width="150" height="80" hspace="20" align="left" alt="IFPR Logo">
   <strong>Gestão da Tecnologia da Informação (GTI)</strong><br>
   <em>Instituto Federal do Paraná (IFPR)</em><br>
   Em andamento
