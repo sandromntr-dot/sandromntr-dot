@@ -21,15 +21,21 @@ Sou um profissional focado em criar soluções que otimizam processos e geram va
 
 ### Formação Acadêmica
 
-<table border="0" cellspacing="0" cellpadding="14">
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center" width="150" valign="middle">
-      <img src="./ifpr.svg" width="110" alt="IFPR Logo">
+    <td align="center" valign="middle" width="150">
+      <img src="./ifpr.svg" width="150" alt="IFPR Logo">
     </td>
     <td valign="middle">
-      <strong>Gestão da Tecnologia da Informação (GTI)</strong><br>
-      <em>Instituto Federal do Paraná (IFPR)</em><br>
-      Em andamento
+      <table border="0" cellspacing="0" cellpadding="16">
+        <tr>
+          <td>
+            <strong>Gestão da Tecnologia da Informação (GTI)</strong><br>
+            <em>Instituto Federal do Paraná (IFPR)</em><br>
+            Em andamento
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
