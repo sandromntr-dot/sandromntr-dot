@@ -24,7 +24,7 @@ Sou um profissional focado em criar soluções que otimizam processos e geram va
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" valign="middle" width="150">
-      <img src="./ifpr.svg" width="150" alt="IFPR Logo">
+      <img src="./ifpr.svg" width="100%" height="100%" alt="IFPR Logo">
     </td>
     <td valign="middle">
       <table border="0" cellspacing="0" cellpadding="16">

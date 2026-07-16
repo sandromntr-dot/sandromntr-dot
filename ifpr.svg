@@ -1,9 +1,10 @@
-<svg id="marca-ifpr" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 54" role="img" aria-label="Instituto Federal do Paraná">
+<svg id="marca-ifpr" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 162" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Instituto Federal do Paraná">
     <title>Instituto Federal do Paraná</title>
 
-    <!-- Fundo branco fixo, encostando nas bordas (a célula da tabela não tem padding, então a borda da própria tabela já delimita) -->
-    <rect x="0" y="0" width="260" height="54" fill="#ffffff" />
-    
+    <!-- Fundo branco cobrindo toda a "tela" ampliada, para preencher também a altura da linha -->
+    <rect x="0" y="0" width="260" height="162" fill="#ffffff" />
+
+    <g transform="translate(0, 54)">
     <!-- Quadrados Verdes -->
     <path fill="#2F9E41" d="M37.4 36.4c0 0.6-0.5 1.1-1 1.1h-8.7c-0.6 0-1.1-0.5-1.1-1.1v-8.7c0-0.6 0.5-1.1 1.1-1.1h8.7c0.6 0 1.1 0.5 1.1 1.1V36.4z"></path>
     <path fill="#2F9E41" d="M24.4 10.3c0 0.6-0.5 1.1-1.1 1.1h-8.7c-0.6 0-1.1-0.5-1.1-1.1V1.6c0-0.6 0.5-1.1 1.1-1.1h8.7c0.6 0 1.1 0.5 1.1 1.1V10.3z"></path>
@@ -14,13 +15,14 @@
     <path fill="#2F9E41" d="M24.4 36.4c0 0.6-0.5 1.1-1.1 1.1h-8.7c-0.6 0-1.1-0.5-1.1-1.1v-8.7c0-0.6 0.5-1.1 1.1-1.1h8.7c0.6 0 1.1 0.5 1.1 1.1V36.4z"></path>
     <path fill="#2F9E41" d="M11.4 49.4c0 0.6-0.5 1.1-1.1 1.1H1.6c-0.6 0-1-0.5-1-1.1v-8.7c0-0.6 0.5-1 1.1-1h8.7c0.6 0 1.1 0.5 1.1 1.1V49.4z"></path>
     <path fill="#2F9E41" d="M24.4 49.4c0 0.6-0.5 1.1-1.1 1.1h-8.7c-0.6 0-1.1-0.5-1.1-1.1v-8.7c0-0.6 0.5-1 1.1-1h8.7c0.6 0 1.1 0.5 1.1 1.1V49.4z"></path>
-    
+
     <!-- Círculo Vermelho -->
     <path fill="#CD191E" d="M11.9 6c0 3.3-2.7 6-6 6C2.7 11.9 0 9.3 0 6S2.7 0 6 0C9.3 0 11.9 2.7 11.9 6"></path>
-    
+
     <!-- Textos com cor escura fixa (contraste sobre o fundo branco) -->
     <text transform="matrix(1.0017 0 0 1 44.1899 38.9971)">
         <tspan fill="#333333" font-family="Arial, sans-serif" font-weight="bold" font-size="18">INSTITUTO FEDERAL</tspan>
     </text>
     <text fill="#333333" transform="matrix(1.0017 0 0 1 44.4702 52.1841)" font-family="Arial, sans-serif" font-size="18">Paraná</text>
+    </g>
 </svg>
