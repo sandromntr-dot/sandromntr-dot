@@ -21,12 +21,12 @@ Sou um profissional focado em criar soluções que otimizam processos e geram va
 
 ### Formação Acadêmica
 
-<table>
+<table border="0" cellspacing="0" cellpadding="14">
   <tr>
-    <td align="center" width="160">
-      <img src="./ifpr.svg" width="130" alt="IFPR Logo">
+    <td align="center" width="150" valign="middle">
+      <img src="./ifpr.svg" width="110" alt="IFPR Logo">
     </td>
-    <td>
+    <td valign="middle">
       <strong>Gestão da Tecnologia da Informação (GTI)</strong><br>
       <em>Instituto Federal do Paraná (IFPR)</em><br>
       Em andamento
@@ -77,4 +77,4 @@ Sou um profissional focado em criar soluções que otimizam processos e geram va
 ---
 
 ### 📫 Como me encontrar?
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN-AQUI)
+[![LinkedIn](https://www.linkedin.com/in/sandro-monteiro-729274191)]
