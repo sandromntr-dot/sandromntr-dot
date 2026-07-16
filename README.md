@@ -23,8 +23,8 @@ Sou um profissional focado em criar soluções que otimizam processos e geram va
 
 <table>
   <tr>
-    <td align="center" width="120">
-      <img src="ifpr.svg" width="70" alt="IFPR Logo">
+    <td align="center" width="160">
+      <img src="./ifpr.svg" width="130" alt="IFPR Logo">
     </td>
     <td>
       <strong>Gestão da Tecnologia da Informação (GTI)</strong><br>
