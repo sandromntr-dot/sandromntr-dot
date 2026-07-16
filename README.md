@@ -1,3 +1,7 @@
+
+🚧 *Em construção — novos projetos sendo adicionados continuamente.*
+
+
 # Olá!
 
 **Desenvolvedor RPA | Analista de Automação e IA**  
@@ -16,7 +20,6 @@ Sou um profissional focado em criar soluções que otimizam processos e geram va
 - 🏗️ **Arquitetura & Processos:** Soluções de arquitetura para processos corporativos, incluindo exemplos de mapeamento **BPMN (AS-IS e TO-BE)**.
 - 📊 **Análise de Dados:** Aplicação de dados para suportar a tomada de decisão estratégica.
 
-🚧 *Em construção — novos projetos sendo adicionados continuamente.*
 ---
 
 ### Formação Acadêmica
