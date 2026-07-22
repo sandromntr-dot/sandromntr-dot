@@ -4,7 +4,7 @@
 
 # Olá!
 
-Sou Desenvolvedor RPA | Analista de Automação e IA**  
+Sou Desenvolvedor RPA | Analista de Automação e IA
 
 *Integração de Inteligência Artificial e LLMs Locais Open Source*
 
