@@ -16,8 +16,8 @@ Sou um profissional focado em criar soluções que otimizam processos e geram va
 
 **O que você encontrará nos meus repositórios:**
 
--⚡ POCs & MVPs: Criação rápida de POCs e MVPs para validar hipóteses de negócio, reduzir riscos e acelerar iniciativas de transformação digital.
--  🤖 **Automação (RPA):** Ferramentas construídas com Python e desenvolvimento de fluxos para ganho de eficiência operacional.
+- ⚡ POCs & MVPs: Criação rápida de POCs e MVPs para validar hipóteses de negócio, reduzir riscos e acelerar iniciativas de transformação digital.
+- 🤖 **Automação (RPA):** Ferramentas construídas com Python e desenvolvimento de fluxos para ganho de eficiência operacional.
 - 🧠 **IA Local & LLMs Open Source:** Testes de LLMs Open Source foco para ambientes corporativos seguros e experimentos avançados com **RAG**.
 - 🏗️ **Arquitetura & Processos:** Soluções de arquitetura para processos corporativos, incluindo exemplos de mapeamento **BPMN (AS-IS e TO-BE)**.
 - 📊 **Análise de Dados:** Aplicação de dados para suportar a tomada de decisão estratégica.
