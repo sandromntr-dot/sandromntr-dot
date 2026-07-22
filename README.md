@@ -15,10 +15,13 @@ Sou Desenvolvedor RPA | Analista de Automação e IA
 Sou um profissional focado em criar soluções que otimizam processos e geram valor através da tecnologia. <br> Meu foco atual está na união entre a **Automação (RPA)** e as novas fronteiras da **Inteligência Artificial**.
 
 **O que você encontrará nos meus repositórios:**
-- 🤖 **Automação (RPA):** Ferramentas construídas com Python e desenvolvimento de fluxos para ganho de eficiência operacional.
+
+-⚡ POCs & MVPs: Criação rápida de POCs e MVPs para validar hipóteses de negócio, reduzir riscos e acelerar iniciativas de transformação digital.
+-  🤖 **Automação (RPA):** Ferramentas construídas com Python e desenvolvimento de fluxos para ganho de eficiência operacional.
 - 🧠 **IA Local & LLMs Open Source:** Testes de LLMs Open Source foco para ambientes corporativos seguros e experimentos avançados com **RAG**.
 - 🏗️ **Arquitetura & Processos:** Soluções de arquitetura para processos corporativos, incluindo exemplos de mapeamento **BPMN (AS-IS e TO-BE)**.
 - 📊 **Análise de Dados:** Aplicação de dados para suportar a tomada de decisão estratégica.
+
 
 ---
 
