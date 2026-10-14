@@ -4,7 +4,7 @@
 
 # Olá!
 
-Sou Desenvolvedor back-end | Analista de Automação e IA 
+Sou Desenvolvedor Back-end | Analista de Automação e IA 
 
 *Integração de Inteligência Artificial e LLMs Locais Open Source*
 
